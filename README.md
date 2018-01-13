@@ -1,5 +1,4 @@
-Name: Bestchain
-Ticker: BEST
+Name: Bestchain (BEST)
 Algorithm: Scrypt
 Type: Hybrid POW/POS
 Blocktime: 60 seconds
